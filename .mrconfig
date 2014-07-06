@@ -1,0 +1,3 @@
+
+[projects/pymmf]
+checkout = hg clone 'ssh://hg@bitbucket.org/mforbes/pymmf' 'pymmf'

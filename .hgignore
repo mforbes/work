@@ -1,0 +1,3 @@
+# Ignore everything except for files like README.rst, mrconfig and .hgignore
+syntax: glob
+*

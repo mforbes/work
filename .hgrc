@@ -1,0 +1,3 @@
+[paths]
+bitbucket = ssh://hg@bitbucket.org/mforbes/work
+github = git+ssh://git@github.com:mforbes/work.git
